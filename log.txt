@@ -1,0 +1,3 @@
+node id 4949
+
+del entry nowBots bfs startedBots bfs ended
